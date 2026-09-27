@@ -1,0 +1,82 @@
+id_muestra,fecha,sitio,latitud,longitud,especie,id_individuo,peso_g,longitud_cm
+M001,2024-12-03,Estación Biológica Senda Darwin,-41.88,-73.66,Liolaemus tenuis,I001,4.2,6.5
+M002,2024-10-08,Estación Biológica Senda Darwin,-41.88,-73.66,Pristidactylus torquatus,I002,10.0,7.1
+M003,2024-10-07,Reserva el Roble,-33.45,-70.66,Pristidactylus torquatus,I003,8.4,9.3
+M004,2025-01-18,Parque Nacional La Campana,-32.95,-71.08,Liolaemus chiliensis,I004,6.1,8.2
+M005,2025-01-16,Reserva Costera Valdiviana,-39.95,-73.55,Liolaemus chiliensis,I005,6.1,6.5
+M006,2024-10-07,Reserva Costera Valdiviana,-39.95,-73.55,Liolaemus tenuis,I006,3.8,6.7
+M007,2025-01-18,Estación Biológica Senda Darwin,-41.88,-73.66,Liolaemus tenuis,I007,3.9,6.8
+M008,2024-12-06,Reserva el Roble,-33.45,-70.66,Rhinella spinulosa,I008,9.9,5.7
+M009,2024-10-06,Estación Biológica Senda Darwin,-41.88,-73.66,Rhinella spinulosa,I009,16.7,6.5
+M010,2024-11-13,Parque Nacional La Campana,-32.95,-71.08,Rhinella spinulosa,I010,11.6,7.2
+M011,2024-10-08,Estación Biológica Senda Darwin,-41.88,-73.66,Alsodes nodosus,I011,7.5,6.1
+M012,2025-01-16,Reserva el Roble,-33.45,-70.66,Pleurodema thaul,I012,5.0,4.8
+M013,2024-12-04,Estación Biológica Senda Darwin,-41.88,-73.66,Alsodes nodosus,I013,5.3,4.6
+M014,2024-10-06,Reserva el Roble,-33.45,-70.66,Rhinella spinulosa,I014,17.1,6.9
+M015,2025-01-17,Estación Biológica Senda Darwin,-41.88,-73.66,Liolaemus chiliensis,I015,8.5,7.6
+M016,2024-11-15,Reserva El Roble,-33.45,-70.66,Liolaemus chiliensis,I016,7.2,6.7
+M017,2025-01-16,Estación Biológica Senda Darwin,-41.88,-73.66,Pristidactylus torquatus,I017,8.5,10.5
+M018,2024-10-05,Parque Nacional La Campana,-32.95,-71.08,Liolaemus tenuis,I018,4.0,5.3
+M019,2024-10-07,Estación Biológica Senda Darwin,-41.88,-73.66,Pristidactylus torquatus,I019,9.7,10.5
+M020,2024-10-07,Parque Nacional La Campana,-32.95,-71.08,Pristidactylus torquatus,I020,12.0,9.4
+M021,2024-12-04,Parque Nacional La Campana,-32.95,-71.08,Rhinella spinulosa,I021,10.9,5.9
+M022,2024-12-05,Reserva El Roble,-33.45,-70.66,Alsodes nodosus,I022,8.2,6.0
+M023,2024-12-05,Reserva El Roble,-33.45,-70.66,Alsodes nodosus,I023,6.8,5.1
+M024,2024-10-07,Parque Nacional La Campana,-32.95,-71.08,Liolaemus chiliensis,I024,6.3,6.0
+M025,2024-11-13,Humedal Río Cruces,-39.64,-73.2,Rhinella spinulosa,I025,10.4,6.9
+M026,2025-01-16,Reserva El Roble,-33.45,-70.66,Alsodes nodosus,I026,9.4,6.1
+M027,2025-01-18,Reserva El Roble,-33.45,-70.66,Alsodes nodosus,I027,4.9,6.1
+M028,2024-11-15,Estación Biológica Senda Darwin,-41.88,-73.66,Liolaemus chiliensis,I028,6.2,8.5
+M029,2025-01-16,Estación Biológica Senda Darwin,-41.88,-73.66,Pleurodema thaul,I029,2.7,3.6
+M030,2024-11-15,Reserva El Roble,-33.45,-70.66,Pristidactylus torquatus,I030,8.5,7.2
+M031,2024-10-06,Estación Biológica Senda Darwin,-41.88,-73.66,Liolaemus chiliensis,I031,8.4,6.2
+M032,2025-01-16,Reserva El Roble,-33.45,-70.66,Alsodes nodosus,I032,7.0,6.7
+M033,2025-01-16,Humedal Río Cruces,-39.64,-73.2,Pristidactylus torquatus,I033,12.5,9.8
+M034,2025-01-16,Reserva El Roble,-33.45,-70.66,Liolaemus tenuis,I034,4.8,5.9
+M035,2024-10-06,Reserva Costera Valdiviana,-39.95,-73.55,Alsodes nodosus,I035,6.2,5.5
+M036,2024-11-13,Humedal Río Cruces,-39.64,-73.2,Liolaemus chiliensis,I036,7.1,6.4
+M037,2024-11-13,Reserva El Roble,-33.45,-70.66,Pleurodema thaul,I037,3.3,5.2
+M038,2024-10-05,Parque Nacional La Campana,-32.95,-71.08,Liolaemus tenuis,I038,6.3,6.7
+M039,2025-01-16,Reserva El Roble,-33.45,-70.66,Pleurodema thaul,I039,4.6,5.3
+M040,2025-01-16,Reserva El Roble,-33.45,-70.66,Liolaemus tenuis,I040,6.3,6.6
+M041,2025-01-16,Reserva El Roble,-33.45,-70.66,Alsodes nodosus,I041,5.0,5.2
+M042,2024-10-07,Reserva El Roble,-33.45,-70.66,Alsodes nodosus,I042,5.7,4.7
+M043,2024-11-12,Parque Nacional La Campana,-32.95,-71.08,Pristidactylus torquatus,I043,13.7,7.3
+M044,2024-10-08,Reserva El Roble,-33.45,-70.66,Pristidactylus torquatus,I044,13.0,8.4
+M045,2024-11-15,Humedal Río Cruces,-39.65,-73.2,Pristidactylus torquatus,I045,11.2,9.2
+M046,2024-12-05,Parque Nacional La Campana,-32.95,-71.08,Pristidactylus torquatus,I046,8.4,9.5
+M047,2024-11-14,Reserva El Roble,-33.45,-70.66,Pleurodema thaul,I047,3.9,4.4
+M048,2024-10-06,Humedal Río Cruces,-39.65,-73.2,Liolaemus tenuis,I048,5.4,6.1
+M049,2024-11-15,Reserva El Roble,-33.45,-70.66,Pristidactylus torquatus,I049,8.9,10.3
+M050,2024-12-05,Humedal Río Cruces,-39.65,-73.2,Liolaemus chiliensis,I050,5.6,8.1
+M051,2024-10-07,Estación Biológica Senda Darwin,-41.88,-73.66,Pristidactylus torquatus,I051,12.7,8.0
+M052,2024-12-03,Estación Biológica Senda Darwin,-41.88,-73.66,Liolaemus chiliensis,I052,8.6,7.9
+M053,2024-11-15,Reserva El Roble,-33.45,-70.66,Rhinella spinulosa,I053,11.4,7.2
+M054,2025-01-17,Reserva Costera Valdiviana,-39.95,-73.55,Pristidactylus torquatus,I054,13.3,10.0
+M055,2024-12-03,Reserva El Roble,-33.45,-70.66,Pleurodema thaul,I055,2.0,5.0
+M056,2024-11-14,Estación Biológica Senda Darwin,-41.88,-73.66,Rhinella spinulosa,I056,12.4,7.3
+M057,2024-10-08,Estación Biológica Senda Darwin,-41.88,-73.66,Liolaemus tenuis,I057,6.2,6.1
+M058,2024-11-13,Reserva Costera Valdiviana,-39.95,-73.55,Pristidactylus torquatus,I058,7.9,8.1
+M059,2024-12-04,Humedal Río Cruces,-39.65,-73.2,Liolaemus tenuis,I059,5.5,6.3
+M060,2025-01-17,Parque Nacional La Campana,-32.95,-71.08,Pristidactylus torquatus,I060,12.2,10.2
+M061,2024-11-13,Reserva El Roble,-33.45,-70.66,Liolaemus chiliensis,I061,5.1,7.8
+M062,2024-11-14,Reserva El Roble,-33.45,-70.66,Pleurodema thaul,I062,2.5,4.9
+M063,2025-01-16,Parque Nacional La Campana,-32.95,-71.08,Liolaemus tenuis,I063,4.1,6.8
+M064,2024-11-13,Parque Nacional La Campana,-32.95,-71.08,Liolaemus chiliensis,I064,7.6,7.0
+M065,2024-12-04,Reserva El Roble,-33.45,-70.66,Liolaemus tenuis,I065,5.4,5.8
+M066,2024-12-04,Bosque Pehuén,-39.2,-71.75,Pristidactylus torquatus,I066,7.8,10.4
+M067,2024-10-05,Reserva El Roble,-33.45,-70.66,Rhinella spinulosa,I067,14.0,6.4
+M068,2024-10-07,Reserva Costera Valdiviana,-39.95,-73.55,Pleurodema thaul,I068,4.7,3.9
+M069,2024-10-07,Reserva El Roble,-33.45,-70.66,Pleurodema thaul,I069,4.8,4.6
+M070,2024-11-14,Estación Biológica Senda Darwin,-41.88,-73.66,Alsodes nodosus,I070,6.4,7.3
+M071,2024-12-06,Humedal Río Cruces,-39.65,-73.2,Pristidactylus torquatus,I071,12.9,9.5
+M072,2025-01-16,Reserva El Roble,-33.45,-70.66,Rhinella spinulosa,I072,12.0,6.2
+M073,2025-01-17,Reserva El Roble,-33.45,-70.66,Pleurodema thaul,I073,4.2,3.8
+M074,2024-10-06,Estación Biológica Senda Darwin,-41.88,-73.66,Pleurodema thaul,I074,2.9,4.4
+M075,2024-12-05,Estación Biológica Senda Darwin,-41.88,-73.66,Alsodes nodosus,I075,6.4,6.5
+M076,2024-11-14,Parque Nacional La Campana,-32.95,-71.08,Alsodes nodosus,I076,4.5,6.0
+M077,2024-10-06,Estación Biológica Senda Darwin,-41.88,-73.66,Rhinella spinulosa,I077,14.7,6.1
+M078,2024-10-05,Reserva El Roble,-33.45,-70.66,Liolaemus tenuis,I078,6.5,6.2
+M079,2025-01-17,Reserva Costera Valdiviana,-39.95,-73.55,Pleurodema thaul,I079,3.7,4.9
+M080,2024-11-13,Parque Nacional La Campana,-32.95,-71.08,Pleurodema thaul,I080,4.0,3.5
+M005,2025-01-16,Reserva Costera Valdiviana,-39.95,-73.55,Liolaemus chiliensis,I005,6.1,6.5
