@@ -1,0 +1,54 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNYrNOUDIBztHqXj1XpyDb/",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Hidarinko/Metodos_Biologia_Computacional_UNAM/blob/main/assignments/Sanchez_Andres\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Class 2:\n",
+        "**Course:** Computational Methods / Computational Biology\n",
+        "¨Institution:** Universidad Nacional Autónoma de Méxcio (UNAM)\n",
+        "## Author Information:\n",
+        "* **Name:** Angel Andrés Sánchez Olmos\n",
+        "* **Date Creation:** 2026-10-27\n",
+        "* **Last Modified:** 2026-10-27"
+      ],
+      "metadata": {
+        "id": "lHMo_5z-o7TT"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**Eso con queso**"
+      ],
+      "metadata": {
+        "id": "Kp2tFf0IGy_Z"
+      }
+    }
+  ]
+}
